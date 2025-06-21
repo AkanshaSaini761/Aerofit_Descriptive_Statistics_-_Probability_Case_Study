@@ -17,7 +17,7 @@ The **Market Research team at Aerofit** wants to understand what kind of custome
 - Expanding product reach across key demographics
 
 ## 📂 Dataset Overview
-### 📥 Dataset: [Aerofit_treadmill.csv](https://drive.google.com/file/d/1c4Gs-X_azmpp8o0Ls2Sk532uVBEa8cBr/view?usp=drive_link)
+### 📥 Dataset: [Aerofit_treadmill.csv](https://github.com/AkanshaSaini761/Aerofit_Descriptive_Statistics_and_Probability_Case_Study/blob/main/aerofit_treadmill.csv)
 
 The dataset includes purchase data for 180 customers collected over 3 months.
 
@@ -131,7 +131,7 @@ The dataset includes purchase data for 180 customers collected over 3 months.
 ## 📄 Output Report
 
 📎 All code, charts, and insights are compiled in the attached PDF:  
-**[aerofit_case_study_akansha_saini.pdf](https://drive.google.com/file/d/11R-kOx4-UjTUQduAchUJhVSj6DI55c9l/view?usp=drive_link)**
+**[aerofit_case_study_akansha_saini.pdf](https://github.com/AkanshaSaini761/Aerofit_Descriptive_Statistics_and_Probability_Case_Study/blob/main/aerofit_case_study_akansha_saini.pdf)**
 
 ## 📌 Notes
 * Data was normalized using clipping between percentiles to reduce skew from outliers.
